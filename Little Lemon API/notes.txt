@@ -1,0 +1,15 @@
+admin:
+	username: jaytee
+	password: 12345
+
+customer: 
+	username: maha
+	password: Lemon@786!
+	token:7c4bcafda3d814a6ed1053d7629db342e5841fa6
+
+
+delivery_crew:
+	username: jan
+	password: Lemon@786!
+
+
